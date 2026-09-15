@@ -1,0 +1,126 @@
+order_id,order_date,customer_id,customer_name,city,category,product,quantity,unit_price,discount_pct,payment_method,sales_channel,status
+O0001,2026-02-05,C011,Vikas Tiwari,Ujjain, ELECTRONICS ,Wireless Mouse,6,,0,cash,online,completed
+O0002,04-25-2026,C004,Neha Singh ,Jabalpur,Electronics,Headphones,1,1400,15,cod,offline,completed
+O0003,06-04-2026,C006,Sneha Gupta,Bhopal,electronics,Wireless Mouse,1,700,20,upi, Offline, Pending
+O0004,02-28-2026,C005,rohit patel,Ujjain,Grocery,Cooking Oil,1,160,0,upi,Online,cancelled
+O0005,12/06/2026,C003,AMIT KHAN,Rewa,Grocery,Rice Bag,5,950,5,cash,Online,Cancelled
+O0006,22-Mar-2026,C012,Meena Joshi,Bhopal,home,Lamp,3,750,5,UPI,online,Completed
+O0007,05/02/2026,C004,Neha Singh ,Jabalpur, CLOTHING ,Jeans,6,1700,20,COD,online, Pending
+O0008,2026-01-13,C007,Arjun Mehta,Indore,Grocery,Tea Pack,2,280,15,cod,offline,Completed
+O0009,06-14-2026,C008,Pooja Yadav,Rewa,Grocery,Cooking Oil,1,,15,upi,ONLINE, Pending
+O0010,18/03/2026,C012,Meena Joshi,Bhopal,Grocery,Cooking Oil,2,160,5,cod,Online,cancelled
+O0011,2026-03-03,C001,Rahul Sharma,Bhopal,Grocery,Rice Bag,2,1050,0,upi, Offline, Pending
+O0012,09-Mar-2026,C009,Karan Jain,Satna, HOME ,Water Bottle,2,550,5,COD,ONLINE,completed
+O0013,01-17-2026,C006,Sneha Gupta,Bhopal,clothing,Kurta,1,1200,20,upi,online,completed
+O0014,12/05/2026,C011,Vikas Tiwari,Ujjain,Electronics,Wireless Mouse,3,700,5,UPI, Offline,Completed
+O0015,25-Jan-2026,C010,  Anjali Rao  ,Jabalpur,clothing,T-Shirt,3,750,15,card,online,Completed
+O0016,19/02/2026,C011,Vikas Tiwari,Ujjain,electronics,Wireless Mouse,5,700,5,Card,Online,completed
+O0017,24/01/2026,C002,  Priya Verma,Indore,Clothing,Kurta,2,1150,15,UPI,ONLINE,Completed
+O0018,19-Apr-2026,C003,AMIT KHAN,Rewa,clothing,T-Shirt,2,,10,cash,offline, Pending
+O0019,2026-02-10,C001,Rahul Sharma,Bhopal,Grocery,Tea Pack,,,5,COD,ONLINE,Cancelled
+O0020,04-18-2026,C007,Arjun Mehta,Indore,Electronics,Headphones,3,1400,10,UPI,ONLINE,Completed
+O0021,2026-05-25,C005,rohit patel,Ujjain,Clothing,Jeans,1,1700,5,UPI,offline,Cancelled
+O0022,06-30-2026,C002,  Priya Verma,Indore,home,Bedsheet,5,1300,0, UPI ,offline,Cancelled
+O0023,03-11-2026,C002,  Priya Verma,Indore,Home,Bedsheet,5,1200,10,upi,ONLINE,completed
+O0024,01-01-2026,C008,Pooja Yadav,Rewa,Grocery,Tea Pack,2,280,5,card, Offline,Completed
+O0025,05/04/2026,C001,Rahul Sharma,Bhopal, ELECTRONICS ,Wireless Mouse,4,650,0, UPI ,ONLINE,Completed
+O0026,24-May-2026,C001,Rahul Sharma,Bhopal, GROCERY ,Tea Pack,5,280,5,Cash,Online, Pending
+O0027,03-05-2026,C007,Arjun Mehta,Indore, ELECTRONICS ,Wireless Mouse,2,600,15,Card,offline,cancelled
+O0028,19-Feb-2026,C008,Pooja Yadav,Rewa,Grocery,Rice Bag,3,950,0,Cash,Online,cancelled
+O0029,2026-03-09,C007,Arjun Mehta,Indore,Grocery,Tea Pack,1,380,15,cash,online,Cancelled
+O0030,2026-04-22,C009,Karan Jain,Satna, ELECTRONICS ,Keyboard,5,,5,Cash, Offline,Completed
+O0031,20-Jun-2026,C006,Sneha Gupta,Bhopal,Grocery,Cooking Oil,3,210,10,cash,ONLINE, Pending
+O0032,01-01-2026,C007,Arjun Mehta,Indore, HOME ,Lamp,3,800,15,cash,offline,Cancelled
+O0033,2026-02-13,C008,Pooja Yadav,Rewa,Clothing,Kurta,3,1200,20,cod,offline,cancelled
+O0034,04-Mar-2026,C011,Vikas Tiwari,Ujjain,Grocery,Tea Pack,5,230,15, UPI ,Online,Completed
+O0035,2026-06-26,C012,Meena Joshi,Bhopal,clothing,Jeans,1,1650,5,Cash,online,cancelled
+O0036,05-16-2026,C001,Rahul Sharma,Bhopal,home,Water Bottle,4,550,20, UPI ,offline,cancelled
+O0037,05/05/2026,C003,AMIT KHAN,Rewa,clothing,Jeans,3,1650,0,Cash, Offline,Cancelled
+O0038,09/02/2026,C009,Karan Jain,Satna,Electronics,Wireless Mouse,1,700,15,Cash,offline,cancelled
+O0039,2026-05-03,C007,Arjun Mehta,Indore, CLOTHING ,Kurta,3,1100,15,UPI,ONLINE,pending
+O0040,08-Jan-2026,C012,Meena Joshi,Bhopal,Home,Bedsheet,3,1250,5,cash,offline,pending
+O0041,20/04/2026,C009,Karan Jain,Satna, ELECTRONICS ,Keyboard,4,900,0,UPI,Online,cancelled
+O0042,2026-01-05,C006,Sneha Gupta,Bhopal,clothing,Jeans,3,1600,0,cash,Online,pending
+O0043,2026-05-02,C004,Neha Singh ,Jabalpur, HOME ,Water Bottle,5,450,15, UPI ,online,completed
+O0044,21-Mar-2026,C010,  Anjali Rao  ,Jabalpur,electronics,Wireless Mouse,4,650,0,upi,ONLINE,Completed
+O0045,30-Mar-2026,C012,Meena Joshi,Bhopal, GROCERY ,Cooking Oil,6,160,0,upi,ONLINE,Completed
+O0046,02-15-2026,C008,Pooja Yadav,Rewa,electronics,Keyboard,5,1000,15,COD,online,pending
+O0047,26-May-2026,C006,Sneha Gupta,Bhopal,home,Water Bottle,3,400,15,COD,online,pending
+O0048,13/05/2026,C005,rohit patel,Ujjain, GROCERY ,Rice Bag,1,950,15,cash,ONLINE,Completed
+O0049,14/04/2026,C011,Vikas Tiwari,Ujjain,Clothing,Jeans,3,1700,10,upi, Offline,completed
+O0050,06/03/2026,C012,Meena Joshi,Bhopal, GROCERY ,Rice Bag,1,950,10,COD, Offline, Pending
+O0051,05-31-2026,C003,AMIT KHAN,, HOME ,Water Bottle,1,450,10,COD, Offline,cancelled
+O0052,28/06/2026,C009,Karan Jain,Satna,Home,Bedsheet,6,1250,0,UPI,ONLINE, Pending
+O0053,17-Jan-2026,C008,Pooja Yadav,Rewa,Grocery,Tea Pack,4,,20,cash,offline,Completed
+O0054,05/06/2026,C010,  Anjali Rao  ,Jabalpur,Grocery,Tea Pack,5,330,15,upi,ONLINE,pending
+O0055,26/01/2026,C007,Arjun Mehta,Indore, GROCERY ,Cooking Oil,6,160,10,UPI,ONLINE,cancelled
+O0056,2026-03-16,C002,  Priya Verma,Indore,home,Water Bottle,2,450,10,COD,ONLINE,pending
+O0057,02-08-2026,C005,rohit patel,Ujjain,Home,Bedsheet,2,1150,0,cod,online,cancelled
+O0058,04-14-2026,C010,  Anjali Rao  ,Jabalpur,Grocery,Rice Bag,5,1050,15,COD, Offline,cancelled
+O0059,2026-06-22,C012,Meena Joshi,Bhopal,grocery,Cooking Oil,,160,20,UPI,Online,completed
+O0060,05-01-2026,C011,Vikas Tiwari,Ujjain,Clothing,Jeans,4,1600,10,card,offline,Completed
+O0061,2026-04-27,C012,Meena Joshi,Bhopal, CLOTHING ,Jeans,3,1600,10,card,ONLINE,Completed
+O0062,09-Jun-2026,C001,Rahul Sharma,Bhopal,Clothing,Jeans,6,1650,0,Cash,ONLINE, Pending
+O0063,2026-05-22,C008,Pooja Yadav,Rewa,Clothing,T-Shirt,5,750,0,Cash,online, Pending
+O0064,11-Mar-2026,C002,  Priya Verma,Indore, HOME ,Bedsheet,4,1250,5,cash,ONLINE,cancelled
+O0065,2026-03-10,C010,  Anjali Rao  ,Jabalpur,home,Water Bottle,3,450,20,card, Offline,Cancelled
+O0066,04-27-2026,C008,Pooja Yadav,Rewa,clothing,Jeans,2,1600,20,cod,ONLINE,pending
+O0067,10/01/2026,C006,Sneha Gupta,Bhopal,clothing,Kurta,5,1200,10,card,online,pending
+O0068,2026-02-09,C009,Karan Jain,Satna, CLOTHING ,T-Shirt,4,700,10, UPI ,offline,cancelled
+O0069,2026-06-08,C006,Sneha Gupta,Bhopal, CLOTHING ,Jeans,2,1600,5,COD,ONLINE,Completed
+O0070,2026-03-25,C011,Vikas Tiwari,Ujjain,Electronics,Keyboard,3,900,10,cash,Online,Completed
+O0071,08/06/2026,C011,Vikas Tiwari,Ujjain,Home,Water Bottle,4,550,5,upi,ONLINE,pending
+O0072,04-24-2026,C011,Vikas Tiwari,Ujjain,electronics,Keyboard,5,900,15,cod,online,Completed
+O0073,05-28-2026,C007,Arjun Mehta,Indore,Clothing,T-Shirt,6,700,0,card,ONLINE, Pending
+O0074,06-05-2026,C010,  Anjali Rao  ,Jabalpur, ELECTRONICS ,Headphones,2,1400,20,COD, Offline,completed
+O0075,01-09-2026,C011,Vikas Tiwari,Ujjain,Home,Lamp,6,800,0,UPI, Offline,pending
+O0076,02-12-2026,C004,Neha Singh ,Jabalpur,home,Lamp,4,800,10,cod,ONLINE, Pending
+O0077,2026-03-09,C004,Neha Singh ,Jabalpur,clothing,Kurta,4,1100,10,upi,offline,Completed
+O0078,2026-02-26,C002,  Priya Verma,,Home,Bedsheet,6,1250,10,cod, Offline,Cancelled
+O0079,04-Feb-2026,C001,Rahul Sharma,Bhopal,Grocery,Rice Bag,4,950,20,upi,online,Cancelled
+O0080,06-26-2026,C007,Arjun Mehta,Indore, ELECTRONICS ,Keyboard,2,950,15,card, Offline,Completed
+O0081,12/03/2026,C011,Vikas Tiwari,Ujjain, GROCERY ,Cooking Oil,1,210,0,Card,Online,pending
+O0082,18/01/2026,C001,Rahul Sharma,Bhopal,Electronics,Keyboard,5,900,5, UPI ,ONLINE,completed
+O0083,2026-01-29,C001,Rahul Sharma,Bhopal,Grocery,Tea Pack,2,230,10,cod, Offline,completed
+O0084,17-Jan-2026,C003,AMIT KHAN,Rewa,Grocery,Tea Pack,4,280,20,card,ONLINE,Completed
+O0085,2026-06-14,C010,  Anjali Rao  ,Jabalpur, ELECTRONICS ,Headphones,1,1450,15,cod, Offline,pending
+O0086,03-12-2026,C008,Pooja Yadav,Rewa,electronics,Wireless Mouse,4,750,20, UPI ,Online,completed
+O0087,26/04/2026,C012,Meena Joshi,Bhopal, ELECTRONICS ,Headphones,4,1400,15,cod,online,pending
+O0088,2026-01-22,C006,Sneha Gupta,Bhopal,Grocery,Rice Bag,4,900,10,COD,Online,Completed
+O0089,2026-04-19,C009,Karan Jain,Satna,Grocery,Cooking Oil,3,260,10,card, Offline,cancelled
+O0090,01-30-2026,C011,Vikas Tiwari,Ujjain,Clothing,T-Shirt,5,700,15,Card,ONLINE, Pending
+O0091,03-11-2026,C010,  Anjali Rao  ,Jabalpur, ELECTRONICS ,Headphones,3,1400,0,cash,Online,completed
+O0092,16/05/2026,C002,  Priya Verma,Indore, HOME ,Lamp,4,850,15,UPI,Online,cancelled
+O0093,2026-06-22,C010,  Anjali Rao  ,Jabalpur,Electronics,Wireless Mouse,3,700,15, UPI ,ONLINE,Completed
+O0094,23-Jun-2026,C009,Karan Jain,,electronics,Keyboard,5,900,0,upi, Offline,cancelled
+O0095,2026-01-31,C004,Neha Singh ,Jabalpur,Grocery,Tea Pack,4,330,5,cash, Offline, Pending
+O0096,2026-04-28,C009,Karan Jain,Satna,grocery,Tea Pack,3,380,15,UPI,offline,Completed
+O0097,06-26-2026,C002,  Priya Verma,Indore,clothing,T-Shirt,1,750,0, UPI ,ONLINE,pending
+O0098,2026-01-20,C007,Arjun Mehta,Indore,grocery,Cooking Oil,5,260,5,Cash, Offline,completed
+O0099,14/02/2026,C011,Vikas Tiwari,Ujjain,Home,Water Bottle,6,400,5, UPI , Offline,completed
+O0100,2026-04-23,C010,  Anjali Rao  ,Jabalpur, CLOTHING ,Kurta,4,1150,10,Card, Offline,completed
+O0101,2026-03-15,C002,  Priya Verma,Indore,grocery,Rice Bag,6,900,20,UPI,Online, Pending
+O0102,02/05/2026,C012,Meena Joshi,Bhopal, ELECTRONICS ,Keyboard,1,950,0,Cash, Offline,Cancelled
+O0103,14/05/2026,C002,  Priya Verma,Indore,Home,Water Bottle,3,450,10,COD,offline,Cancelled
+O0104,04-09-2026,C001,Rahul Sharma,Bhopal,grocery,Tea Pack,3,380,5,upi,ONLINE,cancelled
+O0105,01-22-2026,C006,Sneha Gupta,Bhopal, GROCERY ,Cooking Oil,5,210,10,card,online,Cancelled
+O0106,01-05-2026,C012,Meena Joshi,Bhopal, ELECTRONICS ,Headphones,3,1400,5,card,ONLINE, Pending
+O0107,2026-05-15,C003,AMIT KHAN,Rewa,home,Water Bottle,6,450,20,upi,ONLINE,Cancelled
+O0108,23/06/2026,C012,Meena Joshi,Bhopal,home,Lamp,4,900,10,UPI,offline, Pending
+O0109,04-29-2026,C004,Neha Singh ,Jabalpur,Grocery,Rice Bag,4,1050,20,Card,ONLINE,pending
+O0110,2026-01-27,C010,  Anjali Rao  ,Jabalpur,Home,Bedsheet,3,1150,5,COD, Offline,Cancelled
+O0111,14-Jan-2026,C007,Arjun Mehta,Indore,electronics,Wireless Mouse,5,650,5,Card,Online,pending
+O0112,01-10-2026,C006,Sneha Gupta,Bhopal, ELECTRONICS ,Headphones,4,,15,Card,online,completed
+O0113,15/03/2026,C005,rohit patel,Ujjain, HOME ,Water Bottle,3,400,0,cod,offline,Completed
+O0114,12/05/2026,C002,  Priya Verma,Indore, ELECTRONICS ,Keyboard,6,900,10,cod,Online,cancelled
+O0115,2026-01-18,C007,Arjun Mehta,Indore, HOME ,Lamp,4,850,0,upi,ONLINE, Pending
+O0116,27/03/2026,C001,Rahul Sharma,Bhopal,grocery,Tea Pack,1,280,20,Cash,Online,Cancelled
+O0117,2026-04-28,C011,Vikas Tiwari,Ujjain,clothing,Kurta,3,1100,0, UPI ,online,Completed
+O0118,02-18-2026,C005,rohit patel,Ujjain,clothing,Kurta,3,1050,10,cash,Online,cancelled
+O0119,05-08-2026,C007,Arjun Mehta,Indore,clothing,Jeans,5,1600,0, UPI ,offline,cancelled
+O0120,03-17-2026,C003,AMIT KHAN,Rewa,Grocery,Rice Bag,4,1050,15,upi, Offline,cancelled
+O0045,30-Mar-2026,C012,Meena Joshi,Bhopal, GROCERY ,Cooking Oil,6,160,0,upi,ONLINE,Completed
+O0048,13/05/2026,C005,rohit patel,Ujjain, GROCERY ,Rice Bag,1,950,15,cash,ONLINE,Completed
+O0005,12/06/2026,C003,AMIT KHAN,Rewa,Grocery,Rice Bag,5,950,5,cash,Online,Cancelled
+O0056,2026-03-16,C002,  Priya Verma,Indore,home,Water Bottle,2,450,10,COD,ONLINE,pending
+O0027,03-05-2026,C007,Arjun Mehta,Indore, ELECTRONICS ,Wireless Mouse,2,600,15,Card,offline,cancelled
